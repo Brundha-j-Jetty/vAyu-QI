@@ -68,7 +68,21 @@ The system combines AQI prediction, pollutant analysis, health impact assessment
 
 ## 📊 Screenshots
 
-Project screenshots are available in the repository.
+### Home Interface
+
+![Home Interface](screenshots/home.png)
+
+### AQI Prediction
+
+![AQI Prediction](screenshots/prediction.png)
+
+### Health Impact Analysis
+
+![Health Analysis](screenshots/health_analysis.png)
+
+### Pollutant Visualization Dashboard
+
+![Pollutant Chart](screenshots/pollutant_chart.png)
 
 ---
 
